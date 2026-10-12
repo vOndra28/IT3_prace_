@@ -57,5 +57,3 @@ while Honda.baterie > 0:
 print("---" *20)
 
 print(Honda.pracuj())
-
-    

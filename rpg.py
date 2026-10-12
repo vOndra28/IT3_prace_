@@ -58,7 +58,3 @@ druzina = [MgVapko, MgJabko]
 
 for postava in druzina:
     print(postava.predstav_se())
-
-
-
-    
